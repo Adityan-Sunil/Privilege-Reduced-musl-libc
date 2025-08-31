@@ -1,0 +1,25 @@
+﻿Removed Syscalls,,Number of Tests,Passed,Failed,Skipped,Pass %,Fail %
+faccess,,5,5,0,0,1,0
+rename,,383,382,0,1,0.997389034,0
+renameat,,7,7,0,0,1,0
+eventfd,,18,17,0,1,0.944444444,0
+pipe,,95,95,0,0,1,0
+fchmodat,,12,12,0,0,1,0
+fchmod,,15,15,0,0,1,0
+fchown,,13,13,0,0,1,0
+accept,,29,23,0,6,0.793103448,0
+preadv,,35,35,0,0,1,0
+execve,,18,18,0,0,1,0
+open,,112,108,4,0,0.964285714,0.035714286
+mkdir,,14,14,0,0,1,0
+link,,21,21,0,0,1,0
+unlink,,25,25,0,0,1,0
+symlink,,8,8,0,0,1,0
+readlink,,9,8,0,0,0.888888889,0
+chmod,,77,77,0,0,1,0
+chown,,18,18,0,0,1,0
+mknod,,29,29,0,0,1,0
+epoll_create,,8,8,0,0,1,0
+inotify_init,,8,8,0,0,1,0
+faccessat,,5,5,0,0,1,0
+signalfd,,10,10,0,0,1,0
