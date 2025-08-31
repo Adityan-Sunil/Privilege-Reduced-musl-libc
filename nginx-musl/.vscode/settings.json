@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.in": "c",
+        "syscall.h": "c",
+        "socket.h": "c"
+        "fcntl.h": "c"
+    }
+}
